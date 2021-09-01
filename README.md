@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amarstays
 - 👀 I’m interested in algorithm design, programming concept, data structure, MERN stack, Cloud based Architecure and AI.
-- 🌱 I’m currently learning Pytorch
+- 🌱 I’m currently learning Pytorch, FastAPI and FastAi
 - 💞️ I’m looking to collaborate on BlockChain and related tech.
 - 📫 How to reach me: tweet me @amarstays
 
