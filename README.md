@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amarstays
+- 👋 Hi, I’m Amresh from India.
 - 👀 I’m interested in algorithm design, programming concept, data structure, MERN stack, Cloud based Architecure, DevOPS, MLOPS and AI.
 - 🌱 I’m currently learning Pytorch, FastAPI and FastAi
 - 💞️ I’m looking to collaborate on BlockChain and related tech.
