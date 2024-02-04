@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amresh from Netheland.
+- 👋 Hi, I’m Amresh from Netherlands.
 - 👀 I’m interested in DevOps, algorithm design, programming concepts, data structure, MERN stack, Cloud-based Architecture, MLOPS, and AI.
 - 🌱 I’m currently learning GCP, Pytorch, FastAPI and FastAi
 - 💞️ I’m looking to collaborate on SRE, DevOps, and related tech.
