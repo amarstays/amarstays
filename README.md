@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Amresh from India.
-- 👀 I’m interested in algorithm design, programming concept, data structure, MERN stack, Cloud based Architecure, DevOPS, MLOPS and AI.
-- 🌱 I’m currently learning Pytorch, FastAPI and FastAi
-- 💞️ I’m looking to collaborate on BlockChain and related tech.
+- 👋 Hi, I’m Amresh from Netheland.
+- 👀 I’m interested in DevOps, algorithm design, programming concepts, data structure, MERN stack, Cloud-based Architecture, MLOPS, and AI.
+- 🌱 I’m currently learning GCP, Pytorch, FastAPI and FastAi
+- 💞️ I’m looking to collaborate on SRE, DevOps, and related tech.
 - 📫 How to reach me: tweet me @amarstays
 
 <!---
